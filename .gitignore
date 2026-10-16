@@ -1,0 +1,6 @@
+# file generati in fase di build/test
+*.lst
+*.sym
+src/test.prg
+src/cripte.prg
+*.wav
